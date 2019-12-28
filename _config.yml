@@ -24,9 +24,9 @@ urls:
 author_logo: profile.png
 author: Ali BaObaid
 author_bio: Hi, My Name is Ali Baobaid. I love to Code and Try new Technologies.  
-author_email: "ali_baobaid@gmail.com"
+author_email: "ali.baobaid.me@gmail.com"
 author_location: Yemen
-author_website_url: "http://ali_baobaid.com"
+author_website_url: "https://alibaobaid.me"
 
 author_work_experiences: 
             - company_name: JISR HR
@@ -63,16 +63,12 @@ author_project_details:
                 visibility: true
 
 # social links
-twitter_username: alibaubaid
+twitter_username: alibaobaid_me
 github_username:  alibaobaid
-facebook_username: aliba3baid
-linkedin_username: johndoe
-# behance_username: johndoe
-# instagram_username: johndoe
-medium_username: johndoe
-# telegram_username: johndoe
-# dribbble_username: johndoe
-# flickr_username: johndoe
+facebook_username: alibaobaid.me
+linkedin_username: alibaobaid
+medium_username: alibaobaid.me
+
 
 #for comments using disqus
 disqus_shortname: sujay-kundu  
