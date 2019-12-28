@@ -1,5 +1,5 @@
 title: Ali BaObaid
-subtitle: Web Developer Using New Technologies
+subtitle: Software Developer Using New Technologies
 description: >- # this means to ignore newlines until "baseurl:"
   Ali BaObaid
 
@@ -7,14 +7,14 @@ url: "" # the base hostname & protocol for your site, e.g. https://example.githu
 baseurl: "" # the subpath of your site, e.g. /blog
 
 urls:
-    # - text: Blog
-    #   url: /blog
+    - text: Blog
+      url: /blog
     # - text: Shop
     #   url : /shop/
     # - text: About Me
     #   url: /about/
-    # - text: Contact Me
-    #   url : /contact/
+    - text: Contact Me
+      url : /contact/
     # - text: Styleguide
     #   url: /styleguide/
     
@@ -23,7 +23,7 @@ urls:
 
 author_logo: profile.png
 author: Ali BaObaid
-author_bio: Hi, My Name is Ali Baobaid. I love to Code and Try new Technologies.  
+author_bio: Hi, it is my pleasure that you visit my portfolio , I am Yemeni well educated young man full of energy and activity and having good experience in software development using new techniques.  
 author_email: "ali.baobaid.me@gmail.com"
 author_location: Yemen
 author_website_url: "https://alibaobaid.me"
@@ -35,12 +35,12 @@ author_work_experiences:
               designation: Back end 
               description: Worked beside amazing group we are coding with fun using ROR and RSpec
               visibility: true
-            - company_name: Microsoft
-              company_logo: microsoft.png
-              company_url: https://microsoft.com
-              designation: Azure Developer
-              description: Worked on various Azure Cloud Products
-              visibility: false
+            - company_name: Hadhramaut University, College of Computers
+              company_logo: uni.png
+              company_url: http://hu.edu.ye/
+              designation: Teacher Assistant 
+              description: 
+              visibility: true
 
 author_education_details:
               - college_logo: al-ahgaff.jpg
@@ -77,7 +77,7 @@ disqus_shortname: sujay-kundu
 wakatime_username: sujaykundu777
 
 # formspree (contact form)
-formspree_email: johndoe@gmail.com
+formspree_email: xzbdanla
 
 # syntax highlighter
 markdown: kramdown
