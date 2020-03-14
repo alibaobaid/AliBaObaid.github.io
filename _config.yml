@@ -1,14 +1,20 @@
-title: Ali BaObaid
-subtitle: Software Developer Using New Technologies
+title: global.title
+subtitle: global.subtitle
 description: >- # this means to ignore newlines until "baseurl:"
   Ali BaObaid
 
 url: "" # the base hostname & protocol for your site, e.g. https://example.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
+about: content.about
+projects: content.projects
+work_experiences: content.work_experiences
+education: content.education
+skills: content.skills
+
 
 urls:
-    - text: Blog
-      url: /blog
+    # - text: Blog
+    #   url: /blog
     # - text: Shop
     #   url : /shop/
     # - text: About Me
@@ -23,9 +29,9 @@ urls:
 
 author_logo: profile.png
 author: Ali BaObaid
-author_bio: Hi, it is my pleasure that you visit my portfolio , I am Yemeni well educated young man full of energy and activity and having good experience in software development using new techniques.  
+author_bio: global.author_bio
 author_email: "ali.baobaid.me@gmail.com"
-author_location: Yemen
+author_location: global.author_location
 author_website_url: "https://alibaobaid.me"
 
 author_work_experiences: 
@@ -92,6 +98,12 @@ show_author_work_experiences: true
 show_author_education_details: true
 show_author_project_details: true
 
+languages: ["en", "ar"]
+
+exclude_from_localizations: ["img", "css"]
+
+
+
 # dont touch this unless required
 plugins:
   - jekyll-paginate
@@ -100,6 +112,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-feed
   - jekyll-algolia
+  - jekyll-multiple-languages-plugin
 # - jekyll-archives
 
 # algolia search 

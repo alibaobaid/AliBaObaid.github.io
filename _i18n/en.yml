@@ -1,0 +1,14 @@
+global:
+  title: Ali BaObaid
+  subtitle: ROR Developer
+  author_bio: Hi, it is my pleasure that you visit my portfolio , I am Yemeni well educated young man passionate with new technologies and having good experience in software development using Ruby
+  author_location: Yemen
+  arbic: Ar
+  english: En
+
+content:
+  about: About Me
+  projects: Projects
+  work_experiences: Work Experience
+  education: Education
+  skills: Skills

@@ -1,0 +1,15 @@
+title: "علي باعبيد"
+global:
+  title: "علي باعبيد"
+  subtitle: "مبرمج بلغة الروبي"
+  author_bio: "مرحباً ، إنه لمن دواعي سروري أن تزور موقعي ، أنا شاب يمني شغوف بالتقنيات الحديثه ولدي خبرة جيدة في تطوير البرمجيات باستخدام الروبي "
+  author_location: "اليمن"
+  arbic: Ar
+  english: En
+
+content:
+  about: "حولي"
+  projects: "المشاريع"
+  work_experiences: "الخبرات العمليه"
+  education: "التعليم"
+  skills: "المهارات"
